@@ -1,1 +1,1 @@
-# igr-counter
+# igr-counter-api
