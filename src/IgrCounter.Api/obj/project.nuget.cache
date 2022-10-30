@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1cOd9n5SuuhuEnOWm9qH8tcSRw5b20dhwLAz9GchNTf07dB8rrr8ywutKh9xzhhcA/qVZm4vcM7x7ubHHHSPw==",
+  "success": true,
+  "projectFilePath": "/Users/jasonmakhlouta/Development/Interviews/InfoTrack/igr-counter/src/IgrCounter.Api/IgrCounter.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/jasonmakhlouta/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/jasonmakhlouta/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/jasonmakhlouta/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/jasonmakhlouta/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/jasonmakhlouta/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/jasonmakhlouta/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
